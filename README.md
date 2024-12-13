@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=iancheung0202&show_icons=true&theme=discord_old_blurple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancheung0202&show_icons=true&count_private=true&theme=discord_old_blurple&layout=donut&hide=procfile)
 
-[![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js)](https://github.com/SerStars)
+[![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js)](https://github.com/iancheung0202)
