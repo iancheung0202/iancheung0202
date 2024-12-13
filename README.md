@@ -8,7 +8,6 @@
 
 ## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iancheung0202&show_icons=true&theme=discord_old_blurple)
-![GitHub Streak](https://streak-stats.demolab.com?user=iancheung0202&theme=discord-old-blurple&border_radius=5.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancheung0202&show_icons=true&count_private=true&theme=discord_old_blurple&layout=donut&hide=procfile)
 
 [![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js)](https://github.com/SerStars)
