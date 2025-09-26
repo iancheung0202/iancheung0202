@@ -3,11 +3,8 @@
 - Discord Python bot + Web developer
 - Interested in Data Science/Analytics
 
-## Currently on Discord I'm...
-[![](https://lanyard.cnrad.dev/api/692254240290242601)](https://github.com/iancheung0202)
-
 ## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iancheung0202&show_icons=true&theme=discord_old_blurple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancheung0202&show_icons=true&count_private=true&theme=discord_old_blurple&layout=donut&hide=procfile)
 
-[![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js)](https://github.com/iancheung0202)
+[![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js,bootstrap,cloudflare,codepen,docker,firebase,git,github,grafana,java,jquery,nginx,notion,npm,nodejs,opencv,prometheus,react,sklearn,tensorflow,vim,vscode)](https://github.com/iancheung0202)
