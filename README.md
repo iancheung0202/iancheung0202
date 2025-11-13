@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=iancheung0202&show_icons=true&theme=discord_old_blurple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancheung0202&show_icons=true&count_private=true&theme=discord_old_blurple&layout=donut&hide=procfile)
 
-[![](https://skillicons.dev/icons?i=discord,instagram,vscode,github,py,html,css,js,bootstrap,cloudflare,codepen,docker,firebase,git,github,grafana,java,jquery,nginx,notion,npm,nodejs,opencv,prometheus,react,sklearn,tensorflow,vim,vscode)](https://github.com/iancheung0202)
+[![](https://skillicons.dev/icons?i=discord,obsidian,vscode,py,html,css,js,bootstrap,cloudflare,codepen,docker,firebase,git,github,grafana,java,jquery,nginx,notion,npm,nodejs,opencv,prometheus,react,sklearn,tensorflow,vim)](https://github.com/iancheung0202)
