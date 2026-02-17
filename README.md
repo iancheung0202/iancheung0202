@@ -4,10 +4,10 @@
 - Studying Data Science/Applied Math at [UC Berkeley](https://www.berkeley.edu/)
 - Classically trained musician and composer
 
-![Status](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/status)
-![VS Code](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/vscode)
-![Spotify](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/spotify)
-![Playing](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/playing)
+![Status](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/currently&style=flat-square&logo=discord&logoColor=white)
+![Playing](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/playing&style=flat-square&logo=game-controller&logoColor=white)
+![Coding](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/coding&style=flat-square&logo=visual-studio-code&logoColor=white)
+![Spotify](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/listening%20to&style=flat-square&logo=spotify&logoColor=white)
 
 ## My Tech Stack
 <p align="center">
