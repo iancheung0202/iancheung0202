@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Say hi and introduce yourself
+### Say Hi
 [<img src="https://img.shields.io/badge/Portfolio-iancheung.dev-gold?style=for-the-badge&logo=google-chrome&logoColor=white">](https://iancheung.dev) 
 [<img src="https://img.shields.io/badge/LinkedIn-Ian_Cheung-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/iancheung0202)
 [<img src="https://img.shields.io/badge/Discord-@iancheung.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com)
