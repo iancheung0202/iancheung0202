@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/currently&style=flat-square&logo=discord&logoColor=white)
 ![Playing](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/playing&style=flat-square&logo=game-controller&logoColor=white)
 ![Coding](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/coding&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Spotify](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/listening%20to&style=flat-square&logo=spotify&logoColor=white)
+![Spotify](https://img.shields.io/endpoint?url=https://activity.fischl.app/github/listening&style=flat-square&logo=spotify&logoColor=white)
 
 ## My Tech Stack
 <p align="center">
