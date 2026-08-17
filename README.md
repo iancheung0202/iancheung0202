@@ -1,4 +1,11 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=110&duration=1000&pause=1500&color=F7F7F7&width=3500&height=300&lines=Hey+there!+%F0%9F%91%8B;I'm+Ian+Cheung.)](https://github.com/iancheung0202)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iancheung0202/iancheung0202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iancheung0202/iancheung0202/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iancheung0202/iancheung0202/output/github-contribution-grid-snake.svg" />
+</picture>
+
 - I can speak 3 languages, Cantonese 🇭🇰, English 🇺🇸 and Mandarin 🇨🇳.
 - Discord Python bot + Web developer (Full stack)
 - Studying Data Science/Applied Math at [UC Berkeley](https://www.berkeley.edu/)
